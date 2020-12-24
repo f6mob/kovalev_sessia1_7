@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PROJECT1</string>
+    <string name="button">SIGN IN</string>
+    <string name="Login">Login</string>
+    <string name="password">Password</string>
+    <string name="textview">Forgot Password?</string>
+    <string name="textview2">SIGN IN WITH FACEBOOK</string>
+    <string name="button2">SIGN UP</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
